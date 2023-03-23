@@ -1,0 +1,39 @@
+.promotion-bar {
+    width: 100%;
+  
+    padding: 0px 2px 215px 1px;
+}
+.promotion-content{
+    text-align: center;
+    
+   
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-between;
+ }
+.icons{
+    display: inline-flex!important;
+}
+
+#navigation{
+    font-size: 14px;
+}
+.pr-c{
+     font-size: 1rem;
+}
+.item {
+height: 60%;
+width:50rem;
+}
+/*section 7 */
+#section-7{
+font-size: 7rem;
+margin: 10px 10px 10px 10px;
+text-align: left;
+height: 30%;
+width: 125%;
+}
